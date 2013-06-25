@@ -1,0 +1,1 @@
+This is a simple Java class that creates 2 threads and synchronizes them to allow them to output sequentially
